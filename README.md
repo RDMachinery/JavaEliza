@@ -1,3 +1,5 @@
+![Banner image](banner.jpeg)
+
 # Eliza
 
 A small Java re-creation of **ELIZA**, the natural-language program written by Joseph Weizenbaum at MIT between 1964 and 1966. This version runs ELIZA's best-known script, **DOCTOR**, which imitates a Rogerian psychotherapist. The therapist reflects your statements back at you and gently asks you to say more.
